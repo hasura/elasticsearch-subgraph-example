@@ -1,0 +1,8 @@
+{ "index": { "_index": "products" } }
+{ "name": "Smartphone XYZ", "category": "Electronics", "price": 699.99, "in_stock": true, "description": "Latest smartphone with advanced features", "release_date": "2023-07-20" }
+{ "index": { "_index": "products" } }
+{ "name": "Running Shoes", "category": "Footwear", "price": 79.99, "in_stock": true, "description": "Comfortable running shoes for all terrains", "release_date": "2022-11-15" }
+{ "index": { "_index": "products" } }
+{ "name": "Bluetooth Headphones", "category": "Accessories", "price": 149.99, "in_stock": false, "description": "Noise-cancelling wireless headphones", "release_date": "2023-03-10" }
+{ "index": { "_index": "products" } }
+{ "name": "Laptop ABC", "category": "Electronics", "price": 999.99, "in_stock": true, "description": "High performance laptop for professionals", "release_date": "2023-05-05" }

@@ -1,0 +1,6 @@
+{ "index": { "_index": "logs" } }
+{ "timestamp": "2024-08-01T12:00:00Z", "level": "INFO", "message": "Server started", "host": "server1" }
+{ "index": { "_index": "logs" } }
+{ "timestamp": "2024-08-01T12:05:00Z", "level": "ERROR", "message": "Database connection failed", "host": "server1" }
+{ "index": { "_index": "logs" } }
+{ "timestamp": "2024-08-01T12:10:00Z", "level": "WARN", "message": "High memory usage detected", "host": "server2" }
