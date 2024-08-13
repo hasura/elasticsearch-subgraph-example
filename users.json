@@ -1,0 +1,6 @@
+{ "index": { "_index": "users" } }
+{ "user_id": 1, "name": "John Doe", "email": "john.doe@example.com", "address": "123 Elm Street" }
+{ "index": { "_index": "users" } }
+{ "user_id": 2, "name": "Jane Smith", "email": "jane.smith@example.com", "address": "456 Oak Avenue" }
+{ "index": { "_index": "users" } }
+{ "user_id": 3, "name": "Robert Brown", "email": "robert.brown@example.com", "address": "789 Maple Drive" }

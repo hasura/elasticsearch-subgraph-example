@@ -1,0 +1,8 @@
+{ "index": { "_index": "orders" } }
+{ "order_id": "1001", "user_id": "1", "product_id": 101, "quantity": 1, "total_price": 699.99, "order_date": "2024-07-20" }
+{ "index": { "_index": "orders" } }
+{ "order_id": "1002", "user_id": "2", "product_id": 102, "quantity": 2, "total_price": 159.98, "order_date": "2024-07-21" }
+{ "index": { "_index": "orders" } }
+{ "order_id": "1003", "user_id": "3", "product_id": 103, "quantity": 1, "total_price": 149.99, "order_date": "2024-07-22" }
+{ "index": { "_index": "orders" } }
+{ "order_id": "1004", "user_id": "1", "product_id": 104, "quantity": 1, "total_price": 999.99, "order_date": "2024-07-23" }
